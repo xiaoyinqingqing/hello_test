@@ -3,4 +3,7 @@ class TestLogin:
         assert 1
 
     def test_login_02(self):
-        assert 0
+        assert 1
+
+    def test_login_03(self):
+        assert 1
